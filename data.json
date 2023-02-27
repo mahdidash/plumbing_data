@@ -1,0 +1,209 @@
+{
+  "Carousel": [
+    {
+    "title": "Boiler Grants in Birmingham",
+    "paragraph": "With our new A-rated boilers, which will be funded under the ECO3 scheme in Birmingham, you will have peace of mind that your boiler is working for you – not against you. The free boiler scheme in Birmingham will improve energy efficiency, reduce your gas bills. You will be also be contributing to reducing the UK carbon footprint.",
+    "imgageUrl":"assets/sa/boiler-replacement-SGE.jpg",
+    "moreText":"Do You Qualify?",
+    "moreUrl":"/qualify"
+
+  },
+  {
+    "title": "Central Heating Grant in Birmingham",
+    "paragraph": "Our first-time central heating grant in Birmingham is for customers who are ECO3 qualified and have no central heating system present, in other terms having no radiators. Some examples include only having solid fuel fires, electric storage heaters, gas fire or electric plug-in heaters.",
+    "imgageUrl":"assets/sa/first-time-central-heating.jpg",
+    "moreText":"Do You Qualify?",
+    "moreUrl":"/qualify"
+  },
+  {
+    "title": "Cavity Wall Insulation Grants",
+    "paragraph": "The cavity wall insulation grant in Birmingham is offered to help those who suffer with heat loss due to cavity walls by insulating the air space with a material that inhibits heat transfer. The material immobilises the air within the cavity, which prevents convection, and can substantially reduce the space heating costs of your home.",
+    "imgageUrl":"assets/sa/cavity-wall-insulation-new.jpg",
+    "moreText":"Do You Qualify?",
+    "moreUrl":"/qualify"
+  },
+  {
+    "title": "Loft Insulation Grants in Birmingham",
+    "paragraph": "Our loft insulation grants in Birmingham is where we install insulation boarding in between the rafters underneath existing plasterboard walls to help keep the heat inside. This will save you money on your heating bills!",
+    "imgageUrl":"assets/sa/loft-insulation-min.jpg",
+    "moreText":"Do You Qualify?",
+    "moreUrl":"/qualify"
+  }
+],
+  "About": {
+    "paragraph": " Here sat S & A Plumbing and Heating, we are extremely passionate about helping as many people as we can be aware that there is funding for various energy efficiency measures. We want to keep everybody’s gas bills as small as possible – so installing the most efficient measures goes a very long way in reducing those bills. We have been helping potential customers obtain a free, or discounted boiler since 2015! We have a network of underfloor installers, surveyors and gas safe engineers, that stretch from London to Birmingham..",
+    "Why": [
+      "Government Backed Schemes",
+      "Available Grants",
+      "two-year warranty on your new boiler",
+      "The most affordable",
+      "Professional Accreditations"
+      
+    ],
+    "Why2": [
+      "Eco friendly technologies",
+      "After sale maintenance",
+      "Best Reated on the Market",
+      "Exercitation ullamco",
+      "excellent custome services"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "assets/sa/boiler-replacement-SGE.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "imgUrl": "assets/svc/service1.png",
+      "name": "On site survey",
+      "text": "We offer a free no obligation survey to see if you require any energy saving measures in your home. We will give you all the information on recommendations to allow you to make your own decision."
+    },
+    {
+      "imgUrl": "assets/svc/service2.png",
+      "name": "Installation",
+      "text": "We are funder accredited; we have no middlemen to deal with – ensuring a clean, swift process from start to finish. We aim typically to have your boiler installed within 10 working days of your enquiry."
+    },
+    {
+      "imgUrl": "assets/svc/service3.png",
+      "name": "After care",
+      "text": "We have dedicated account managers that will look after your specific case, ensuring the person helping is with you from the very start. ."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "assets/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "assets/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "assets/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "assets/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "assets/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "assets/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Accreditations": [
+    {
+      "img": "assets/accred/acred1.jpg",
+      "title": "John Doe",
+      "link": "/"
+    },
+    {
+      "img": "assets/accred/acred2.png",
+      "title": "Mike Doe",
+      "link": "/"
+    },
+    {
+      "img": "assets/accred/acred3.jpg",
+      "title": "Jane Doe",
+      "link": "/"
+    },
+    {
+      "img": "assets/accred/acred4.png",
+      "title": "Karen Doe",
+      "link": "/"
+    },
+    {
+      "img": "assets/accred/acred5.png",
+      "title": "Jane Doe",
+      "link": "/"
+    },
+    {
+      "img": "assets/accred/acred6.jpg",
+      "title": "Karen Doe",
+      "link": "/"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
